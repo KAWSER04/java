@@ -17,6 +17,8 @@ public class Operators {
 		return x%y;
 	}
 	
+	//gdhfjcncn
+	
 	
 	public int or(int x,int y) {
 		return x|y;
